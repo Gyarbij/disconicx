@@ -34,7 +34,7 @@ default-features = false
 features = [ "serenity-rustls", "driver", "gateway", "builtin-queue" ]
 
 [dependencies.tokio]
-version = "1.0"
+version = "1.29"
 features = ["full"]
 
 [dependencies.anyhow]
