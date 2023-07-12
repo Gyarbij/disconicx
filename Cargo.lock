@@ -1533,7 +1533,7 @@ checksum = "6bdef32e8150c2a081110b42772ffe7d7c9032b606bc226c8260fd97e0976601"
 [[package]]
 name = "sunk"
 version = "0.1.2"
-source = "git+https://github.com/Misterio77/sunk#5ed9707419c91cf478a858e8b6076b21d6b79dbd"
+source = "git+https://github.com/Misterio77/sunk#6c5e520797ea00d9705ae861e0ae4bee9fe9d930"
 dependencies = [
  "async-trait",
  "log",
